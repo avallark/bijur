@@ -10,4 +10,4 @@ These are some of my essays. Most of them are old, hope to add to them soon.
 
 ## Wiki Entries of note
 
-- [Setting up R GPU on Ubuntu 20.04]()
+- [Setting up R GPU on Ubuntu 20.04](https://github.com/avallark/bijur/wiki/gpuR-on-Ubuntu-20.04)
