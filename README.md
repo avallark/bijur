@@ -1,12 +1,13 @@
 # Abdul Bijur V A
+Date: May 2nd 2020
 
-This is my personal blog, wiki and message board.
+I am creating this space where I can share content, some of my old essays, configurations and data. 
 
 ## Essays
 
 These are some of my essays. Most of them are old, hope to add to them soon.
 
-- [Test 1](Test)
+--coming soon--
 
 ## Wiki Entries of note
 
